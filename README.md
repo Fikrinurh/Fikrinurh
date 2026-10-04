@@ -1,7 +1,7 @@
 ## Hello! I'am Fikri Nurrahman Hakim 👋
 
 
-![Fikri Nurrahman Hakim](img\github-header-banner.png)
+![Fikri Nurrahman Hakim](img/github-header-banner.png)
 
 🔭 I’m currently working on DABI CAMP batch 4 by Celerates
 🌱 I’m currently learning Data Analyst
