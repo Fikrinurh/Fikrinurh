@@ -46,7 +46,6 @@
 
 ##### My Github Stats
 [![Fikrinurh GitHub stats](https://github-readme-stats.vercel.app/api?username=Fikrinurh)](https://github.com/Fikrinurh/github-readme-stats)
-<<<<<<< HEAD
 
 <img data-importer="snake" src="https://raw.githubusercontent.com/Fikrinurh/Fikrinurh/snake-output/snake.svg" alt="Snake animation" />
 
@@ -61,5 +60,4 @@
 </picture>
 
 
-=======
->>>>>>> e0ef0e74d89a309d4569de3c71cb1ec51a95a993
+
