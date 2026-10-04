@@ -1,17 +1,23 @@
 ## Hello! I'am Fikri Nurrahman Hakim 👋
 
+🔭 I’m currently working on DABI CAMP batch 4 by Celerates
+🌱 I’m currently learning Data Analyst
 
-<!--
-**Fikrinurh/Fikrinurh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Skills
+[![My Skills](https://skillicons.dev/icons?i=python,mysql,&theme=light)](https://skillicons.dev)
 
-Here are some ideas to get you started:
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" />
+<img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white" />
+<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+<img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##### Connect with me
+![https://www.instagram.com/fikrinurh._](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+![https://www.linkedin.com/in/fikrinurrahmanhakim/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+
+##### My Github Stats
+[![Fikrinurh GitHub stats](https://github-readme-stats.vercel.app/api?username=Fikrinurh)](https://github.com/Fikrinurh/github-readme-stats)
